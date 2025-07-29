@@ -377,15 +377,15 @@
         "pin_to_sibling"                                            "HudWeaponAmmo"
 
         "xpos"                                                      "-180"
-        "ypos"                                                      "-55"
-        "wide"                                                      "150"
-        "tall"                                                      "40"
+        "ypos"                                                      "0"
+        "wide"                                                      "180"
+        "tall"                                                      "120"
 
         "BgAlpha"                                                   "0"
         "GrowTime"                                                  "0.1"
         "ItemHiddenTime"                                            "0.1"   // Nearly same as grow time so that the item doesn't start to show until growth is finished
-        "ItemFadeInTime"                                            "0.1"   // Once ItemHiddenTime is finished, takes this much longer to fade in
-        "ItemFadeOutTime"                                           "0.1"
+        "ItemFadeInTime"                                            "0.2"   // Once ItemHiddenTime is finished, takes this much longer to fade in
+        "ItemFadeOutTime"                                           "0.3"
         "topoffset"                                                 "0"
     }
 

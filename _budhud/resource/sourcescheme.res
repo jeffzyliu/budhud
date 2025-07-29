@@ -383,8 +383,7 @@
         {
             "1"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "13"
                 "weight"                                            "500"
                 "yres"                                              "480 599"
@@ -394,8 +393,7 @@
 
             "2"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "18"
                 "weight"                                            "500"
                 "yres"                                              "600 767"
@@ -405,8 +403,7 @@
 
             "3"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "28"
                 "weight"                                            "500"
                 "yres"                                              "768 1023"
@@ -416,8 +413,7 @@
 
             "4"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "19"
                 "weight"                                            "500"
                 "yres"                                              "1024 1199"
@@ -427,8 +423,7 @@
 
             "5"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "19"
                 "yres"                                              "1200 1375"
                 "weight"                                            "500"
@@ -438,8 +433,7 @@
 
             "6"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "25"
                 "yres"                                              "1376 1551"
                 "weight"                                            "500"
@@ -449,8 +443,7 @@
 
             "7"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "26"
                 "yres"                                              "1552 1727"
                 "weight"                                            "500"
@@ -460,8 +453,7 @@
 
             "8"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "27"
                 "yres"                                              "1728 1903"
                 "weight"                                            "500"
@@ -471,8 +463,7 @@
 
             "9"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "28"
                 "yres"                                              "1904 2079"
                 "weight"                                            "500"
@@ -482,8 +473,7 @@
 
             "10"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "29"
                 "yres"                                              "2080 2255"
                 "weight"                                            "500"
@@ -522,8 +512,7 @@
         {
             "1"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "12"
                 "antialias"                                         "1"
                 "weight"                                            "1000"
@@ -545,8 +534,7 @@
         {
             "1"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "18"
                 "weight"                                            "600"
                 "antialias"                                         "1"
@@ -557,8 +545,7 @@
         {
             "1"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "18"
                 "weight"                                            "600"
                 "antialias"                                         "1"
@@ -569,8 +556,7 @@
         {
             "1"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "18"
                 "weight"                                            "1500"
                 "antialias"                                         "1"
@@ -581,8 +567,7 @@
         {
             "1"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "14"
                 "weight"                                            "1000"
                 "antialias"                                         "1"

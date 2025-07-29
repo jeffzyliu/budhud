@@ -25,8 +25,7 @@
 
             "1"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "15"
                 "weight"                                            "500"
                 "yres"                                              "480 599"
@@ -35,8 +34,7 @@
 
             "2"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "17"
                 "weight"                                            "500"
                 "yres"                                              "600 767"
@@ -45,8 +43,7 @@
 
             "3"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "18"
                 "weight"                                            "500"
                 "yres"                                              "768 1023"
@@ -55,8 +52,7 @@
 
             "4"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "20"
                 "weight"                                            "500"
                 "yres"                                              "1024 1199"
@@ -65,8 +61,7 @@
 
             "5"	// my understanding could be wrong, but the instant you go over 4's yres max (1199), it uses this font and it scales proportionally
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "9"
                 "weight"                                            "500"
                 "antialias"                                         "1"
@@ -77,8 +72,7 @@
         {
             "1"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "12"
                 "weight"                                            "0"
                 "range"                                             "0x0020 0x1EFF"
@@ -87,8 +81,7 @@
 
             "2"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "12"
                 "weight"                                            "0"
                 "range"                                             "0x0020 0x1EFF"
@@ -97,8 +90,7 @@
 
             "3"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "12"
                 "weight"                                            "0"
                 "range"                                             "0x0020 0x1EFF"
@@ -108,8 +100,7 @@
 
             "4"
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "14"
                 "weight"                                            "0"
                 "range"                                             "0x0020 0x1EFF"
@@ -119,8 +110,7 @@
 
             "5"	// Misyl: Proportional
             {
-                "name"                                              "Lato Semibold" [!$POSIX]
-                "name"                                              "Verdana" [$POSIX]
+                "name"                                              "Verdana"
                 "tall"                                              "9"
                 "weight"                                            "0"
                 "range"                                             "0x0020 0x1EFF"

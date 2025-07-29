@@ -177,7 +177,7 @@
 
             "1"
             {
-                "name"                                              "Lato Semibold"
+                "name"                                              "Verdana"
                 "tall"                                              "12"
                 "weight"                                            "900"
                 "yres"                                              "480 599"
@@ -187,7 +187,7 @@
 
             "2"
             {
-                "name"                                              "Lato Semibold"
+                "name"                                              "Verdana"
                 "tall"                                              "13"
                 "weight"                                            "900"
                 "yres"                                              "600 767"
@@ -197,7 +197,7 @@
 
             "3"
             {
-                "name"                                              "Lato Semibold"
+                "name"                                              "Verdana"
                 "tall"                                              "14"
                 "weight"                                            "900"
                 "yres"                                              "768 1023"
@@ -207,7 +207,7 @@
 
             "4"
             {
-                "name"                                              "Lato Semibold"
+                "name"                                              "Verdana"
                 "tall"                                              "20"
                 "weight"                                            "900"
                 "yres"                                              "1024 1199"
@@ -217,7 +217,7 @@
 
             "5"
             {
-                "name"                                              "Lato Semibold"
+                "name"                                              "Verdana"
                 "tall"                                              "9"
                 "weight"                                            "900"
                 "antialias"                                         "1"
@@ -393,8 +393,7 @@
             "1"
             {
                 "name"                                              "Lato Semibold"
-                "tall"                                              "6" [!$POSIX]
-                "tall"                                              "7" [$POSIX]
+                "tall"                                              "7"
                 "weight"                                            "500"
                 "antialias"                                         "1"
                 "dropshadow"                                        "0"
@@ -420,8 +419,7 @@
             "1"
             {
                 "name"                                              "Lato Semibold"
-                "tall"                                              "10" [!$POSIX]
-                "tall"                                              "11" [$POSIX]
+                "tall"                                              "11"
                 "weight"                                            "500"
                 "antialias"                                         "1"
                 "dropshadow"                                        "0"
@@ -645,8 +643,7 @@
             "1"
             {
                 "name"                                              "Lato Semibold"
-                "tall"                                              "6" [!$POSIX]
-                "tall"                                              "7" [$POSIX]
+                "tall"                                              "7"
                 "weight"                                            "500"
                 "antialias"                                         "1"
                 "dropshadow"                                        "1"
@@ -672,8 +669,7 @@
             "1"
             {
                 "name"                                              "Lato Semibold"
-                "tall"                                              "10" [!$POSIX]
-                "tall"                                              "11" [$POSIX]
+                "tall"                                              "11"
                 "weight"                                            "500"
                 "antialias"                                         "1"
                 "dropshadow"                                        "1"
@@ -897,8 +893,7 @@
             "1"
             {
                 "name"                                              "Lato Semibold"
-                "tall"                                              "6" [!$POSIX]
-                "tall"                                              "7" [$POSIX]
+                "tall"                                              "7"
                 "weight"                                            "500"
                 "antialias"                                         "1"
                 "dropshadow"                                        "0"
@@ -924,8 +919,7 @@
             "1"
             {
                 "name"                                              "Lato Semibold"
-                "tall"                                              "10" [!$POSIX]
-                "tall"                                              "11" [$POSIX]
+                "tall"                                              "11"
                 "weight"                                            "500"
                 "antialias"                                         "1"
                 "dropshadow"                                        "0"
@@ -2393,7 +2387,7 @@
         {
             "1"
             {
-                "name"                                              "Lato Semibold"
+                "name"                                              "Verdana"
                 "tall"                                              "8"
                 "tall_hidef"                                        "10"
                 "tall_lodef"                                        "14"
@@ -3130,7 +3124,7 @@
         {
             "1"
             {
-                "name"                                              "Lato Semibold"
+                "name"                                              "Verdana"
                 "tall"                                              "9"
                 "weight"                                            "500"
                 "additive"                                          "0"
@@ -3263,8 +3257,7 @@
             "1"
             {
                 "name"                                              "Lato Semibold"
-                "tall"                                              "7" [!$POSIX]
-                "tall"                                              "8" [$POSIX]
+                "tall"                                              "8"
                 "weight"                                            "0"
                 "additive"                                          "1"
                 "antialias"                                         "1"
@@ -3276,8 +3269,7 @@
             "1"
             {
                 "name"                                              "Lato Semibold"
-                "tall"                                              "7" [!$POSIX]
-                "tall"                                              "8" [$POSIX]
+                "tall"                                              "8"
                 "weight"                                            "0"
                 "antialias"                                         "1"
             }
@@ -3288,8 +3280,7 @@
             "1"
             {
                 "name"                                              "Lato Semibold"
-                "tall"                                              "7" [!$POSIX]
-                "tall"                                              "8" [$POSIX]
+                "tall"                                              "8"
                 "weight"                                            "0"
                 "blur"                                              "3"
                 "additive"                                          "1"
