@@ -186,4 +186,54 @@
             }
         }
     }
+	
+	"UberTimerBG"
+	{
+		"ControlName"		"Panel"
+		"fieldName"		"UberTimerBG"
+		"xpos"		"cs-0.5"
+		"ypos"		"c25"
+		"zpos"		"-2"
+		"wide"		"50"
+		"tall"		"0"
+		"bgcolor_override"		"100 100 100 100"
+		"visible"	"1"
+	}
+	"UberTimerTick32/55"
+	{
+		"ControlName"		"Panel"
+		"fieldName"		"UberTimerTick32/55"
+		"xpos"		"c+4.8"
+		"ypos"		"c24"
+		"zpos"		"0"
+		"wide"		"1.5"
+		"tall"		"0"
+		"bgcolor_override"		"black"
+		"visible"	"1"
+	}
+	
+	"UberTimerTick40/55"
+	{
+		"ControlName"		"Panel"
+		"fieldName"		"UberTimerTick40/55"
+		"xpos"		"c+11.5"
+		"ypos"		"c24"
+		"zpos"		"0"
+		"wide"		"1.5"
+		"tall"		"0"
+		"bgcolor_override"		"black"
+		"visible"	"1"
+	}
+
+	"UberTimer"
+	{
+		"ControlName"		"Panel"
+		"fieldName"		"UberTimer"
+		"zpos"		"-1"
+		"wide"		"0"
+		"tall"		"2"
+
+		"pin_to_sibling"	"UberTimerBG"
+		"visible" "1"
+	}
 }

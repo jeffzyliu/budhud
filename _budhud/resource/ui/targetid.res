@@ -54,7 +54,7 @@
     // Can't pin
     "TargetDataLabel"
     {
-        "font"                                                      "bh_Font10DropShadow"
+        "font"                                                      "bh_Font14DropShadow"
         "ypos"                                                      "51"
         "wide"                                                      "f0"
         "tall"                                                      "14"

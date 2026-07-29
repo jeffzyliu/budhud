@@ -511,3 +511,39 @@ event AddToCartBlink
     Animate            CartButton            bgcolor            bh_Theme_TextAccent            Linear            0.9            0.01
     Animate            CartButton            bgcolor            bh_Theme_BG20                  Linear            1.0            0.01
 }
+
+//==============================================================================//Uber Tracker
+event MenuClose
+{
+	Animate HudMenu	Alpha	"0"	Linear 0.0 0.2
+	Animate HudMenu	SelectionAlpha	"0"	Linear 0.0 0.2
+	Animate HudMenu	FgColor	"Blank"	Linear 0.0 0.2
+	Animate HudMenu	MenuColor	"Blank"	Linear 0.0 0.2
+	Animate HudMenu	ItemColor	"Blank"	Linear 0.0 0.2
+
+	RunEvent UberTimerHide 0.0
+	RunEvent UberTimerRun 0.1
+}
+
+event UberTimerRun
+{
+	Animate UberTimerBG	tall	2	Linear 0.0 0.001
+	Animate UberTimerTick32/55	tall	3	Linear 0.0 0.001
+	Animate UberTimerTick40/55	tall	3	Linear 0.0 0.001
+	Animate UberTimer	BgColor	"bh_white"	Linear	0.0 0.001
+	Animate UberTimer	wide	50	Linear	0.0 55.0
+	Animate UberTimer	BgColor	"bh_yellow"	Linear	32.0 0.001
+	Animate UberTimer	BgColor	"bh_orange"	Linear	40.0 0.001
+	Animate UberTimer	BgColor	"bh_bred"	Linear	55.0 0.001
+	RunEvent UberTimerHide 70.0
+}
+
+event UberTimerHide
+{
+	StopEvent UberTimerRun 0.0
+	Animate UberTimerBG tall	0	Linear 0.0 0.001
+	Animate UberTimerTick32/55	tall	0	Linear 0.0 0.001
+	Animate UberTimerTick40/55	tall	0	Linear 0.0 0.001
+	
+	Animate UberTimer	wide	0	Linear	0.0 0.001
+}
